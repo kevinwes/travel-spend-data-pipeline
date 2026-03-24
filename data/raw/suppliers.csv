@@ -1,0 +1,7 @@
+supplier_id,supplier_name,supplier_type
+201,Air France,flight
+202,Lufthansa,flight
+203,ITA Airways,flight
+301,Accor Hotels,hotel
+302,Marriott,hotel
+303,Hilton,hotel

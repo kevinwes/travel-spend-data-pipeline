@@ -1,0 +1,11 @@
+booking_id,trip_id,supplier_id,booking_type,booking_date,price,status,team,employee_id,departure_city,arrival_city,departure_date,return_date,supplier_name,supplier_type,employee_name,role,trip_duration_days,booking_lead_days,is_cancelled,validated_spend
+1,1,201,flight,2023-12-20,450,confirmed,Football,101,Paris,Madrid,2024-01-10,2024-01-12,Air France,flight,John Doe,Player,2,21,0,450
+2,1,301,hotel,2023-12-20,300,confirmed,Football,101,Paris,Madrid,2024-01-10,2024-01-12,Accor Hotels,hotel,John Doe,Player,2,21,0,300
+3,2,202,flight,2023-12-30,500,confirmed,Handball,102,Paris,Berlin,2024-01-15,2024-01-18,Lufthansa,flight,Jane Smith,Coach,3,16,0,500
+4,2,302,hotel,2023-12-30,350,cancelled,Handball,102,Paris,Berlin,2024-01-15,2024-01-18,Marriott,hotel,Jane Smith,Coach,3,16,1,0
+5,3,201,flight,2024-01-15,200,confirmed,Football,103,Paris,London,2024-02-01,2024-02-03,Air France,flight,Paul Martin,Staff,2,17,0,200
+6,3,301,hotel,2024-01-15,250,confirmed,Football,103,Paris,London,2024-02-01,2024-02-03,Accor Hotels,hotel,Paul Martin,Staff,2,17,0,250
+7,4,203,flight,2024-01-20,400,confirmed,Judo,104,Paris,Rome,2024-02-10,2024-02-12,ITA Airways,flight,Sarah Lee,Player,2,21,0,400
+8,4,303,hotel,2024-01-20,280,confirmed,Judo,104,Paris,Rome,2024-02-10,2024-02-12,Hilton,hotel,Sarah Lee,Player,2,21,0,280
+9,5,202,flight,2024-02-15,320,confirmed,Football,105,Paris,Barcelona,2024-03-05,2024-03-07,Lufthansa,flight,Lucas Perez,Player,2,19,0,320
+10,5,302,hotel,2024-02-15,310,confirmed,Football,105,Paris,Barcelona,2024-03-05,2024-03-07,Marriott,hotel,Lucas Perez,Player,2,19,0,310

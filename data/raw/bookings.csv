@@ -1,0 +1,11 @@
+booking_id,trip_id,supplier_id,booking_type,booking_date,price,status
+1,1,201,flight,2023-12-20,450,confirmed
+2,1,301,hotel,2023-12-20,300,confirmed
+3,2,202,flight,2023-12-30,500,confirmed
+4,2,302,hotel,2023-12-30,350,cancelled
+5,3,201,flight,2024-01-15,200,confirmed
+6,3,301,hotel,2024-01-15,250,confirmed
+7,4,203,flight,2024-01-20,400,confirmed
+8,4,303,hotel,2024-01-20,280,confirmed
+9,5,202,flight,2024-02-15,320,confirmed
+10,5,302,hotel,2024-02-15,310,confirmed

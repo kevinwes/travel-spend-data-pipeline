@@ -53,13 +53,13 @@ Lancer le DAG : travel_etl_pipeline
 
 Le dashboard permet de visualiser :
 
-💰 Dépense totale
-📊 Dépenses par équipe
-✈️ Dépenses par type de réservation
-👤 Top employés
-❌ Taux d’annulation
-📈 Évolution des dépenses dans le temps
-💡 Valeur métier
+Dépense totale
+Dépenses par équipe
+Dépenses par type de réservation
+Top employés
+Taux d’annulation
+Évolution des dépenses dans le temps
+Valeur métier
 
 Ce projet permet de :
 

@@ -57,7 +57,7 @@ docker-compose up
 2. Exécuter le pipeline
 - Ouvrir Airflow : http://localhost:8080
 - Lancer le DAG : travel_etl_pipeline
-- 
+  
  Dashboard Power BI
 
 Le dashboard permet de visualiser :

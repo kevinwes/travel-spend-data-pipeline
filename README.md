@@ -38,8 +38,8 @@ Structure du projet
 travel-spend-data-pipeline/
 │
 ├── data/
-│   ├── raw/        # Données brutes
-│   └── processed/  # Données transformées
+│   ├── raw/        Données brutes
+│   └── processed/  Données transformées
 │
 ├── scripts/
 │   └── etl_travel.py

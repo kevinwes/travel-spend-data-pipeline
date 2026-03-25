@@ -9,24 +9,30 @@ Il comprend :
 - La transformation des données avec Python (Pandas)
 - L’orchestration avec Apache Airflow
 - La visualisation avec Power BI
-Technologies utilisées
+Technologies utilisées :
+
 - Python (Pandas)
 - SQL (SQLite)
 - Apache Airflow
 - Docker
 - Power BI
-Fonctionnalités principales
+- 
+Fonctionnalités principales:
+
 - Suivi des dépenses totales de voyage
 - Analyse des dépenses par équipe
 - Analyse par type de réservation (flight, hotel)
 - Identification des employés les plus coûteux
 - Calcul du taux d’annulation
 - Analyse des tendances dans le temps
-Architecture du pipeline
+  
+Architecture du pipeline :
+
 - Extract : Chargement des fichiers CSV
 - Transform : Nettoyage et enrichissement des données
 - Load : Stockage des données transformées
 - Visualisation : Dashboard Power BI
+  
 Structure du projet
 travel-spend-data-pipeline/
 │
@@ -43,12 +49,14 @@ travel-spend-data-pipeline/
 ├── docker-compose.yml
 └── README.md
 
-Lancer le projet
+Lancer le projet :
+
 1. Démarrer Airflow
 docker-compose up
 2. Exécuter le pipeline
 - Ouvrir Airflow : http://localhost:8080
 - Lancer le DAG : travel_etl_pipeline
+- 
  Dashboard Power BI
 
 Le dashboard permet de visualiser :

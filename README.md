@@ -1,3 +1,5 @@
+Ce projet simule un cas réel de gestion des dépenses travel dans un environnement type entreprise (sport, corporate), avec pour objectif d’optimiser les coûts et piloter la performance achats.
+
  Pipeline de Données – Analyse des Dépenses de Voyage
  Présentation du projet
 

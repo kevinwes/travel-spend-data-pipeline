@@ -60,7 +60,7 @@ docker-compose up
   
  Dashboard Power BI :
 
- ![Dashboard](./dashboard-travel.png)
+ ![Dashboard](scripts/dashboard-travel.png)
 
 Le dashboard permet de visualiser :
 

@@ -68,16 +68,13 @@ Le dashboard permet de visualiser :
 - Évolution des dépenses dans le temps
 - Valeur métier
 
- Dashboard Power BI :
-
-![Dashboard](./Dashboard-travel.png)
-
 Ce projet permet de :
 
 - Optimiser les coûts de déplacement
 - Suivre les budgets
 - Aider à la prise de décision
 - Identifier les sources de dépenses élevées
-👨‍💻 Auteur
 
-Kevin N'tary
+ Dashboard Power BI :
+
+![Dashboard](./Dashboard-travel.png)

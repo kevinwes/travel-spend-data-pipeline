@@ -57,7 +57,7 @@ docker-compose up
 2. Exécuter le pipeline
 - Ouvrir Airflow : http://localhost:8080
 - Lancer le DAG : travel_etl_pipeline
-- 
+  
  Dashboard Power BI :
 
 ![Dashboard](./Dashboard-travel.png)
@@ -66,17 +66,25 @@ Le dashboard permet de visualiser :
 
 - Dépense totale
 - Dépenses par équipe
-- Dépenses par type de réservation
-- Top employés
+- Dépenses par type de réservation (flight / hotel)
+- Top employés (analyse des dépenses individuelles)
 - Taux d’annulation
 - Évolution des dépenses dans le temps
-- Valeur métier
+
+Des filtres interactifs permettent d’analyser les données de manière dynamique :
+
+- Filtre par date
+- Filtre par équipe
+- Filtre par type de réservation
+
+Valeur métier
 
 Ce projet permet de :
 
 - Optimiser les coûts de déplacement
-- Suivre les budgets
-- Aider à la prise de décision
+- Suivre les budgets par équipe
+- Aider à la prise de décision grâce aux KPI
 - Identifier les sources de dépenses élevées
+- Analyser le comportement des collaborateurs (dépenses, réservations)
 
 

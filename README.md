@@ -9,6 +9,7 @@ Il comprend :
 - La transformation des données avec Python (Pandas)
 - L’orchestration avec Apache Airflow
 - La visualisation avec Power BI
+  
 Technologies utilisées :
 
 - Python (Pandas)
@@ -16,7 +17,7 @@ Technologies utilisées :
 - Apache Airflow
 - Docker
 - Power BI
-- 
+  
 Fonctionnalités principales:
 
 - Suivi des dépenses totales de voyage

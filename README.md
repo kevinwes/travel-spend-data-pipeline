@@ -35,20 +35,25 @@ Architecture du pipeline :
 - Visualisation : Dashboard Power BI
   
 ## 📁 Structure du projet
+
+```text
 travel-spend-data-pipeline/
 │
 ├── data/
-│   ├── raw/        Données brutes
-│   └── processed/  Données transformées
+│   ├── raw/           # Données brutes
+│   └── processed/     # Données transformées
 │
 ├── scripts/
 │   └── etl_travel.py
 │
-├── dags/
-│   └── travel_etl_pipeline.py
+├── airflow/
+│   └── dags/
+│       └── travel_etl_pipeline.py
 │
 ├── docker-compose.yml
+├── requirements.txt
 └── README.md
+```
 
 
 Lancer le projet :

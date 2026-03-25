@@ -12,7 +12,7 @@ Il comprend :
   
 Technologies utilisées :
 
-- Python (Pandas)
+- Python (Pandas) 
 - SQL (SQLite)
 - Apache Airflow
 - Docker

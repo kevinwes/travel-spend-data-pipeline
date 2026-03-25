@@ -58,10 +58,6 @@ docker-compose up
 - Ouvrir Airflow : http://localhost:8080
 - Lancer le DAG : travel_etl_pipeline
   
- Dashboard Power BI :
-
-![Dashboard](./Dashboard-travel.png)
-
 Le dashboard permet de visualiser :
 
 - Dépense totale
@@ -71,6 +67,10 @@ Le dashboard permet de visualiser :
 - Taux d’annulation
 - Évolution des dépenses dans le temps
 - Valeur métier
+
+ Dashboard Power BI :
+
+![Dashboard](./Dashboard-travel.png)
 
 Ce projet permet de :
 

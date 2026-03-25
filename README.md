@@ -34,7 +34,8 @@ Architecture du pipeline :
 - Load : Stockage des données transformées
 - Visualisation : Dashboard Power BI
   
-## Structure du projet
+## 📁 Structure du projet
+
 travel-spend-data-pipeline/
 │
 ├── data/
@@ -49,6 +50,7 @@ travel-spend-data-pipeline/
 │
 ├── docker-compose.yml
 └── README.md
+
 
 Lancer le projet :
 

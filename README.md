@@ -35,7 +35,6 @@ Architecture du pipeline :
 - Visualisation : Dashboard Power BI
   
 ## 📁 Structure du projet
-
 travel-spend-data-pipeline/
 │
 ├── data/
